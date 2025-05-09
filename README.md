@@ -26,3 +26,5 @@ Millions of people use Arabic Sign Language (ArSL) as their primary means of com
 ✔ Implement a **user-friendly interface** for real-time interaction.  
 ✔ Promote **accessibility** and **inclusivity** for the deaf and hard-of-hearing community.  
 
+##Deep Learning Models
+https://drive.google.com/drive/folders/14_aZ9G3FArZuQPstq-lvlq-59tF3Immg?usp=sharing
