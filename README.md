@@ -1,4 +1,4 @@
-# Hand Gesture Recognition for Arabic Sign Language to Text
+# Arabic Sign language Recognition and Translation
 
 ## Team Members  
 - **Seif Sherif Assad Ali**  
