@@ -1,0 +1,7 @@
+gradio==4.26.0
+torch>=1.12.0
+transformers>=4.36.2
+opencv-python
+Pillow
+camel-tools
+numpy
