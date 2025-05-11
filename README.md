@@ -16,8 +16,8 @@ Millions of people use Arabic Sign Language (ArSL) as their primary means of com
 ## Project Scope & Features  
 - **Dataset:** RGB images of Arabic Sign Language letters.  
 - **Preprocessing:** Image cleaning, resizing, augmentation, and normalization.  
-- **Model:** Convolutional Neural Networks (CNNs) for hand gesture classification.  
-- **Output:** Real-time conversion of gestures into Arabic text.  
+- **Model:** Using Vision Transformers after trying different models. (Such as Convolutional Neural Networks (CNNs) for hand gesture classification)  
+- **Output:** Conversion of gestures into Arabic text.  
 - **Future Expansion:** Potential integration with speech synthesis for text-to-speech conversion.  
 
 ## Project Goals  
@@ -27,6 +27,6 @@ Millions of people use Arabic Sign Language (ArSL) as their primary means of com
 ✔ Promote **accessibility** and **inclusivity** for the deaf and hard-of-hearing community.  
 ## Extracted Dataset
  - This is the numerical features extracted from the original rgb image dataset, it consists of the positions of 21 landmarks relative to the wrist landmark.
- - It's position invariant and scale invariant but not rotation invariant because rotation is considered a feature in our data.
+ - It's position invariant and scale invariant but not rotation invariant because rotation is considered a feature in this data.
 ## Deep Learning Models
 https://drive.google.com/drive/folders/14_aZ9G3FArZuQPstq-lvlq-59tF3Immg?usp=sharing
